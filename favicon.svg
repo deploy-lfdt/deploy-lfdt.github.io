@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="1200" height="1200"><svg version="1.1" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="SvgjsClipPath1005">
+   <path d="m0 1024h1280v-1024h-1280z"></path>
+  </clipPath>
+  <clipPath id="SvgjsClipPath1004">
+   <path d="m265.66 844.54h847.34v-644.71h-847.34z"></path>
+  </clipPath>
+  <clipPath id="SvgjsClipPath1003">
+   <path d="m246.51 904.44h281.38v-698.85h-281.38z"></path>
+  </clipPath>
+  <clipPath id="SvgjsClipPath1002">
+   <path d="m303.6 904.44h281.38v-698.85h-281.38z"></path>
+  </clipPath>
+  <clipPath id="SvgjsClipPath1001">
+   <path d="m541.63 449.7h207.8v-249.87h-207.8z"></path>
+  </clipPath>
+  <clipPath id="SvgjsClipPath1000">
+   <path d="m506.61 455.47h207.8v-249.87h-207.8z"></path>
+  </clipPath>
+ </defs>
+ <g transform="matrix(1.3333 0 0 -1.3333 -328.69 1205.9)">
+  <g transform="translate(16.757 -97.694)">
+   <g clip-path="url(#f)">
+    <g>
+     <g>
+      <g clip-path="url(#e)" opacity=".14999">
+       <g transform="translate(1113 522.75)">
+        <path d="m0 0-844.87 321.79-2.465-644.71z" fill="#01ff36"></path>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g>
+     <g>
+      <g clip-path="url(#d)" opacity=".60001">
+       <g transform="translate(463.5 904.44)">
+        <path d="m0 0s52.421-117.28-63.38-203.48c-150.95-112.37-278.98-317.32 66.548-495.37 0 0 75.088 97.101-1.635 201.13s-65.602 117.61 27.799 291.07c93.401 173.46-29.332 206.64-29.332 206.64" fill="#80dbff"></path>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g>
+     <g>
+      <g clip-path="url(#c)" opacity=".60001">
+       <g transform="translate(520.59 904.44)">
+        <path d="m0 0s52.421-117.28-63.38-203.48c-150.95-112.37-278.98-317.32 66.548-495.37 0 0 75.088 97.101-1.635 201.13s-65.602 117.61 27.799 291.07c93.401 173.46-29.332 206.64-29.332 206.64" fill="#73c0ff"></path>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g>
+     <g>
+      <g clip-path="url(#b)" opacity=".60001">
+       <g transform="translate(544.36 448.36)">
+        <path d="m0 0c-24.972 14.184 131.98-85.132 38.797-248.53 0 0 175.3 26.688 165.91 183.27-28.585-4.801-44.467-65.013-204.7 65.261" fill="#80dbff"></path>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g>
+     <g>
+      <g clip-path="url(#a)" opacity=".60001">
+       <g transform="translate(509.34 454.12)">
+        <path d="m0 0c-24.972 14.184 131.98-85.132 38.797-248.53 0 0 175.3 26.688 165.91 183.27-28.585-4.8-44.467-65.013-204.7 65.261" fill="#73c0ff"></path>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: contrast(0.5405405405405405) brightness(3); } }
+</style></svg>
