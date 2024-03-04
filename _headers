@@ -21,21 +21,21 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-404-js-46c99f6c4be267586399.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-index-js-9f5ceada2750a337092a.js
-  Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-contatti-index-js-a616c9054832e181146a.js
+/component---src-pages-index-js-ca4740744bac20444479.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-chi-siamo-index-js-3186fccb226aa7c832af.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-news-index-js-48a15c4fe371d62bf4e9.js
+/component---src-pages-contatti-index-js-a616c9054832e181146a.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-privacy-cookies-index-js-27431b47c80c13fac0be.js
+/component---src-pages-privacy-cookies-index-js-2b15f99a4dbb583219d1.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-servizi-index-js-85bb30212eafd4b5fc6d.js
   Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-news-index-js-48a15c4fe371d62bf4e9.js
+  Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-thanks-index-js-6a25fe44f4595dc838b2.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-3c36642de6c70fa06431.js
+/webpack-runtime-edce743aad49bf2d660e.js
   Cache-Control: public, max-age=31536000, immutable
 /framework-f515c8d84c13a992517e.js
   Cache-Control: public, max-age=31536000, immutable
